@@ -68,7 +68,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ryfan&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=ryfan&theme=radical" />
 </p>
 
