@@ -67,9 +67,8 @@
 ---
 
 ## 📈 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryfan&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=ryfan&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryfan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="300px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ryfan&theme=radical" width="500px" height="165px" />
 </p>
 
 ---
