@@ -71,7 +71,7 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryfan&theme=radical&show_icons=true&hide_border=false&layout=compact" width="300px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ryfan&theme=radical" width="500px" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryfan&theme=radical&show_icons=true&hide_border=false&layout=compact" width="300px">
 </p>
 
 ---
